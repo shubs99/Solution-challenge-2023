@@ -48,7 +48,7 @@
 .title1{
    
     background: url('img/byjus.jpg');
-    shape-image-threshold: 40px;
+    shape-image-threshold: 20px;
     background-repeat: no-repeat;
     background-size: cover;
     
