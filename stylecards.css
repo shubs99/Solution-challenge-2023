@@ -47,9 +47,10 @@
 
 .title1{
    
-    background: url('img/byjus.jpg');
+    background: url('img/byjus-new.png');
     shape-image-threshold: 20px;
     background-repeat: no-repeat;
+    background-position: center;
     background-size: cover;
     
 }
@@ -57,56 +58,57 @@
 .title2{
    
     background: url('img/boat.png');
-    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     
 }
 
 .title3{
-  
-    background: url('img/sugar.jpg');
+    
+    background: url('img/sugar-new.png');
+    background-repeat: no-repeat;
+    background-position: center;
     background-size: contain;
     
 }
 
 .title4{
    
-    background: url('img/phonepay.png');
-    background-size: cover;
-    object-fit: fill;
-    flex-basis: 25%;
+    background: url('img/phonePe.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .title5{
    
-    background: url('img/Car-Dekho-Logo.png');
+    background: url('img/cardekho-new.jpg');
     background-repeat: no-repeat;
-    object-fit: fill;
-    flex-basis: 25%;
+    background-position: center;
+    background-size: cover;
 }
 
 .title6{
    
-    background: url('img/lenskart.png');
+    background: url('img/Lenskart-new.png');
     background-size: cover;
-   
-    
-    flex-basis: 25%;
+    background-position: center;
 }
 
 .title7{
-   
-    background: url('img/oyo.png');
-    background-size: cover;
-    
-    flex-basis: 25%;
+    background: url('img/oyo-new.png');
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .title8{
    
-    background: url('img/pharmeasy.png');
-    background-size: cover;
-    
-    flex-basis: 25%;
+    background: url('img/PharmEasy-new.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 .cards-body{
   padding: 15px;
